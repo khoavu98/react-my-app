@@ -1,0 +1,11 @@
+.MuiSvgIcon-root {
+  color: white !important;
+}
+
+.MuiInputBase-root{
+  color: white !important;
+}
+
+.MuiButtonBase-root.MuiFab-root.MuiFab-extended{
+  position: fixed;
+}
